@@ -7,23 +7,23 @@
 
 - Example // Starting the game: 
 
-![alt text](img/beginning.png);
+![alt text](img/beginning.png)
 
 - Example // User input errors (insert two letters instead of one):
 
-![alt text](img/user-input-errors.png);
+![alt text](img/user-input-errors.png)
 
 - Example // Inserting a wrong letter:  
 
-![alt text](img/wrong-letter.png);
+![alt text](img/wrong-letter.png)
 
 - Example // Winning the game: 
 
-![alt text](img/win.png);
+![alt text](img/win.png)
 
 - Example // Losing the game:
 
-![alt text](img/lost.png);
+![alt text](img/lost.png)
 
 #### Thank you for reading!
 
