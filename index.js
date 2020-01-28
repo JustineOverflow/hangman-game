@@ -7,6 +7,7 @@ async function game() {
     let i = 0;
     let lifes = 5;
 
+    console.log('Welcome! Here is the word you have to guess:');
     console.log(guess);
 
     while (!check(guess, solution) && lifes > 0) {
@@ -27,7 +28,7 @@ async function game() {
                 console.log(guess);
             }
         }
-        if (!solution.includes(line)) {
+        if (line.length === 1 && !solution.includes(line)) {
             lifes -= 1;
             console.log(`Wrong letter! You only have ${lifes} left!`);
         }
