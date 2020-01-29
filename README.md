@@ -1,7 +1,8 @@
-# hangman-game
-- Command line game based on the famous game 'Hangman'
+# Welcome to my hangman-game!
 
-- Technologies: Javascript
+- This is a command line game based on the famous game 'Hangman';
+
+- Technologies used: Javascript;
 
 ### Games screenshots 
 
