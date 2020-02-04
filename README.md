@@ -26,6 +26,6 @@
 
 ![alt text](img/lost.png)
 
-#### Thank you for reading!
+## Author
 
 Justine.
